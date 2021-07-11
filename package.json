@@ -1,12 +1,12 @@
 {
   "name": "hello-node",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "keywords": [],
-  "author": "Kyuhyun Park",
+  "author": "Kyuhyun Park <drypot@gmail.com> (https://drypot.github.io)",
   "license": "MIT",
   "description": ""
 }
